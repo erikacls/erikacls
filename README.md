@@ -21,6 +21,9 @@ I am starting to learn blockchain
 I want to solve a real life problem with a software.
 </div>
 
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 -->
 
 ##  Hey!
@@ -48,4 +51,3 @@ I want to solve a real life problem with a software.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikacls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
