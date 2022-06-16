@@ -22,6 +22,12 @@ I want to solve a real life problem with a software.
 </div>
 
 
+<div align="center">
+  <a href="https://github.com/erikacls">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikacls&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikacls&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+</div>
+
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 -->
@@ -45,9 +51,4 @@ I want to solve a real life problem with a software.
 [<img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png">](https://www.soliditylang.org/)
 [<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org/)
 
-<div align="center">
-  <a href="https://github.com/erikacls">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikacls&layout=compact&langs_count=7&theme=city_lights"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikacls&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-</div>
 
