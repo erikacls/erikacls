@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 Cause they say home is where your heart is set in stone!
+I am starting to learn blockchain
+I want to solve a real life problem with a software.
 </div>
 
 -->
