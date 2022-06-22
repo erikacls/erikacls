@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
--->
-
 <div align='center'>
   <img src="https://pa1.narvii.com/6838/424ff6786f6046bbd7f9a218ef0364e06f7889a3_hq.gif" alt="Blockchain" width="350"/>
 </div> 
+
+-->
+
