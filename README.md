@@ -1,10 +1,10 @@
 
 
-<h4 align="center">Hi, i'm Érika! 👩🏻‍💻</h4>
+<h4 align="center">I'm Érika! 👩🏻‍💻</h4>
 <h1 align="center">❝</h1>
 
 <div align="">
-I’m currently learning programming, blockchain and economics<p>
+I’m currently learning programming and blockchain<p>
 </div>
 
 <table>
@@ -14,11 +14,24 @@ I’m currently learning programming, blockchain and economics<p>
   </tr>
   <tr>
     <td><a target="_blank" href=""><b>Languages</b></a></td>
-    <td><a href="" target="_blank"><b></b></a> Python, Go, JavaScript, Solidity <a href="" target="_blank"><b></b></a> </td>
+    <td><a href="https://www.python.org/" target="_blank"><b>Python</b></a>
+        <a href="https://go.dev/" target="_blank"><b>Golang</b></a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><b>JavaScript</b></a> and 
+        <a href="https://soliditylang.org/" target="_blank"><b>Solidity</b></a> </td>
   </tr>
   <tr>
     <td><a target="_blank" href=""><b>Daily Tools</b></a></td>
-    <td> <a href="" target="_blank"><b</b></a> VS Code, Node.js, Express, Flutter/Ganache, MongoDb, PostgreeSQL</td>
+    <td>
+      <a href="https://code.visualstudio.com/" target="_blank"><b>VS Code,</b></a>
+      <a href="https://nodejs.org/en/" target="_blank"><b>Node.js,</b></a>
+      <a href="https://expressjs.com/" target="_blank"><b>Express,</b></a>
+      <a href="https://www.npmjs.com/" target="_blank"><b>npm,</b></a>
+      <a href="https://trufflesuite.com/" target="_blank"><b>Truffle,</b></a>
+      <a href="https://trufflesuite.com/ganache/" target="_blank"><b>Ganache,</b></a>
+      <a href="https://www.mongodb.com/" target="_blank"><b>MongoDB</b></a>
+      <a href="https://www.postgresql.org/" target="_blank"><b>PostgreeSQL,</b></a> and
+      <a href="https://git-scm.com/" target="_blank"><b>Git</b></a>
+    </td>
   </tr>
 </table>
 
