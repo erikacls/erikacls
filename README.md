@@ -4,6 +4,15 @@
 
 - I'm Érika! 👩🏻‍💻
 
+<div align="">
+- I’m currently learning blockchain<p>
+</div>
+
+<div align="">
+- Languages: Go, JavaScript, Solidity<p>
+- Daily Tools: VS Code, Node.js, Express, Flutter/Ganache, MongoDb, PostgreeSQL
+</div>
+
 <!--
 
 **erikacls/erikacls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
