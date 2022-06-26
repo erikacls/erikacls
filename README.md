@@ -4,7 +4,7 @@
 <h1 align="center">❝</h1>
 
 <div align="">
-I’m currently learning programming and blockchain<p>
+I’m currently learning programming, blockchain and IA<p>
 </div>
 
 <table>
