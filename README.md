@@ -1,8 +1,5 @@
 
-<div align="center">
-<img src="https://img.icons8.com/cotton/344/handshake--v3.png" width="30px" alt="Hello, guys!" />
-</div>
-
+<h4 align="center">Hello, guys!	</h4>
 <h4 align="center">I'm Érika! 👩🏻‍💻</h4>
 <h1 align="center">❝</h1>
 
@@ -38,7 +35,13 @@ I’m currently learning programming, blockchain and IA<p>
   </tr>
 </table>
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 <!--
+
+# O título maior
+## O segundo maior título
+###### O título menor
 
 ### Hi! 👋
 
@@ -54,7 +57,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 
 -->
 
