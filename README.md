@@ -1,10 +1,19 @@
 
 
-### Hi 👋
+### Hey! 👋
 
-🌱 - I’m currently learning blockchain/smart contracts
-⚡ - Languages: Go, JavaScript nd Solidity
+- I'm Érika! 👩🏻‍💻
 
+<div align="">
+🌱 - I’m currently learning blockchain<p>
+⚡ - Languages: Go, JavaScript nd Solidity<p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/erikacls">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikacls&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikacls&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 
