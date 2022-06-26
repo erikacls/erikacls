@@ -1,6 +1,12 @@
-<!--
 
-### Hi there 👋
+
+### Hi 👋
+
+🌱 - I’m currently learning blockchain/smart contracts
+⚡ - Languages: Go, JavaScript nd Solidity
+
+
+<!--
 
 **erikacls/erikacls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
