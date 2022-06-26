@@ -14,8 +14,8 @@ I’m currently learning programming, blockchain and IA<p>
   </tr>
   <tr>
     <td><a target="_blank" href=""><b>Languages</b></a></td>
-    <td><a href="https://www.python.org/" target="_blank"><b>Python</b></a>
-        <a href="https://go.dev/" target="_blank"><b>Golang</b></a> 
+    <td><a href="https://www.python.org/" target="_blank"><b>Python,</b></a>
+        <a href="https://go.dev/" target="_blank"><b>Golang,</b></a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><b>JavaScript</b></a> and 
         <a href="https://soliditylang.org/" target="_blank"><b>Solidity</b></a> </td>
   </tr>
@@ -29,7 +29,7 @@ I’m currently learning programming, blockchain and IA<p>
       <a href="https://trufflesuite.com/" target="_blank"><b>Truffle,</b></a>
       <a href="https://trufflesuite.com/ganache/" target="_blank"><b>Ganache,</b></a>
       <a href="https://www.mongodb.com/" target="_blank"><b>MongoDB,</b></a>
-      <a href="https://www.postgresql.org/" target="_blank"><b>PostgreeSQL,</b></a> and
+      <a href="https://www.postgresql.org/" target="_blank"><b>PostgreeSQL</b></a> and
       <a href="https://git-scm.com/" target="_blank"><b>Git</b></a>
     </td>
   </tr>
