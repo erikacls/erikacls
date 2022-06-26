@@ -1,6 +1,6 @@
 
 
-<h4 align="center">Hi, I'm Érika! 👩🏻‍💻</h4>
+<h4 align="center">Hi, i'm Érika! 👩🏻‍💻</h4>
 <h1 align="center">❝</h1>
 
 <div align="">
@@ -10,7 +10,7 @@ I’m currently learning programming, blockchain and economics<p>
 <table>
   <tr>
     <th></th>
-    <th></th>
+    <th>⚡</th>
   </tr>
   <tr>
     <td><a target="_blank" href=""><b>Languages</b></a></td>
