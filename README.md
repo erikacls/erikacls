@@ -1,4 +1,7 @@
 
+<div align="center">
+<img src="https://img.icons8.com/cotton/344/handshake--v3.png" width="30px" alt="Hello, guys!" />
+</div>
 
 <h4 align="center">I'm Érika! 👩🏻‍💻</h4>
 <h1 align="center">❝</h1>
