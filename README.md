@@ -5,11 +5,11 @@
 - I'm Érika! 👩🏻‍💻
 
 <div align="">
-- I’m currently learning blockchain<p>
+- I’m currently learning programming and blockchain<p>
 </div>
 
 <div align="">
-- Languages: Go, JavaScript, Solidity<p>
+- Languages: Python, Go, JavaScript, Solidity<p>
 - Daily Tools: VS Code, Node.js, Express, Flutter/Ganache, MongoDb, PostgreeSQL
 </div>
 
