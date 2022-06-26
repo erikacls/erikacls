@@ -5,7 +5,7 @@
 - I'm Érika! 👩🏻‍💻
 
 <div align="">
-- I’m currently learning programming and blockchain<p>
+- I’m currently learning programming, blockchain and economics<p>
 </div>
 
 <div align="">
