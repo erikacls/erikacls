@@ -1,19 +1,30 @@
 
 
-### Hey! 👋
-
-- I'm Érika! 👩🏻‍💻
-
-<div align="">
-- I’m currently learning programming, blockchain and economics<p>
-</div>
+<h4 align="center">Hi, I'm Érika! 👩🏻‍💻</h4>
+<h1 align="center">❝</h1>
 
 <div align="">
-- Languages: Python, Go, JavaScript, Solidity<p>
-- Daily Tools: VS Code, Node.js, Express, Flutter/Ganache, MongoDb, PostgreeSQL
+I’m currently learning programming, blockchain and economics<p>
 </div>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href=""><b>Languages</b></a></td>
+    <td><a href="" target="_blank"><b></b></a> Python, Go, JavaScript, Solidity <a href="" target="_blank"><b></b></a> </td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href=""><b>Daily Tools</b></a></td>
+    <td> <a href="" target="_blank"><b</b></a> VS Code, Node.js, Express, Flutter/Ganache, MongoDb, PostgreeSQL</td>
+  </tr>
+</table>
 
 <!--
+
+### Hi! 👋
 
 **erikacls/erikacls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
