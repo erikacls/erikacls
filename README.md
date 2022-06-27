@@ -10,7 +10,7 @@ I’m currently learning programming, blockchain and Smart Contracts development
 <table>
   <tr>
     <th></th>
-    <th>⚡</th>
+    <th></th>
   </tr>
   <tr>
     <td><a target="_blank" href=""><b>Languages</b></a></td>
