@@ -4,7 +4,7 @@
 <h1 align="center">❝</h1>
 
 <div align="">
-I’m currently learning programming, blockchain and Smart Contracts development<p>
+I’m currently learning programming, blockchain and Smart Contracts development :closed_lock_with_key:<p>
 </div>
 
 <table>
