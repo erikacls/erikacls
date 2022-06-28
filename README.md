@@ -32,6 +32,7 @@ Python | Golang | JavaScript | Solidity
     - [Express](https://expressjs.com/)</br >
     - [npm](https://www.npmjs.com/)</br >
 * Sweet Tools (Smart Contracts)
+  - [Remix](https://remix.ethereum.org/)
   - [Truffle](https://trufflesuite.com/)</br >
     - [Ganache](https://trufflesuite.com/ganache/)</br >
 * DB
