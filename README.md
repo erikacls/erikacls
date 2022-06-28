@@ -27,6 +27,7 @@ Python | Golang | JavaScript | Solidity
 
 * Editor
   - [VSCode](https://code.visualstudio.com/)</br >
+  - [Sublime Text](https://www.sublimetext.com/)</br >
 * Runtime
   - [Node.js](https://nodejs.org/en/)</br >
     - [Express](https://expressjs.com/)</br >
