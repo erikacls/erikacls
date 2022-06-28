@@ -4,38 +4,43 @@
 <h1 align="center">❝</h1>
 
 <div align="">
-I’m currently learning programming, blockchain and Smart Contracts development :closed_lock_with_key:<p>
+I’m currently learning programming, blockchain and Smart Contracts development<p>
 </div>
 
-<table>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href=""><b>Languages</b></a></td>
-    <td><a href="https://www.python.org/" target="_blank"><b>Python,</b></a>
-        <a href="https://go.dev/" target="_blank"><b>Golang,</b></a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><b>JavaScript</b></a> and 
-        <a href="https://soliditylang.org/" target="_blank"><b>Solidity</b></a> </td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href=""><b>Daily Tools</b></a></td>
-    <td>
-      <a href="https://code.visualstudio.com/" target="_blank"><b>VS Code,</b></a>
-      <a href="https://nodejs.org/en/" target="_blank"><b>Node.js,</b></a>
-      <a href="https://expressjs.com/" target="_blank"><b>Express,</b></a>
-      <a href="https://www.npmjs.com/" target="_blank"><b>npm,</b></a>
-      <a href="https://trufflesuite.com/" target="_blank"><b>Truffle,</b></a>
-      <a href="https://trufflesuite.com/ganache/" target="_blank"><b>Ganache,</b></a>
-      <a href="https://www.mongodb.com/" target="_blank"><b>MongoDB,</b></a>
-      <a href="https://www.postgresql.org/" target="_blank"><b>PostgreeSQL</b></a> and
-      <a href="https://git-scm.com/" target="_blank"><b>Git</b></a>
-    </td>
-  </tr>
-</table>
+<details><summary>Languages :speech_balloon:</summary>
+
+<p>
+
+Python | Golang | JavaScript | Solidity   
+:---------: |:---------: |:---------: |:---------: |
+[.py](https://www.python.org/) |[.go](https://go.dev/) |[.js](https://developer.mozilla.org/en-US/docs/Web/) |[.sol](https://soliditylang.org/) 
+
+</p>
+
+</details>
+
+<details><summary>Tools :gear:</summary>
+
+<p>
+
+######
+
+* [VSCode](https://code.visualstudio.com/)</br >
+* [Node.js](https://nodejs.org/en/)</br >
+* [Express](https://expressjs.com/)</br >
+* [npm](https://www.npmjs.com/)</br >
+* [Truffle](https://trufflesuite.com/)</br >
+* [Ganache](https://trufflesuite.com/ganache/)</br >
+* [MongoDB](https://www.mongodb.com/)</br >
+* [PostgreeSQL](https://www.postgresql.org/)</br >
+* [Git](https://www.postgresql.org/)
+
+</p>
+
+</details>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 <!--
 
