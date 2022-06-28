@@ -31,18 +31,19 @@ Python | Golang | JavaScript | Solidity
   - [Node.js](https://nodejs.org/en/)</br >
     - [Express](https://expressjs.com/)</br >
     - [npm](https://www.npmjs.com/)</br >
-* Sweet Tools (Smart Contracts)
-  - [Remix](https://remix.ethereum.org/)
-  - [Truffle](https://trufflesuite.com/)</br >
-    - [Ganache](https://trufflesuite.com/ganache/)</br >
+* Ethereum protocol
+  - [Ethereum](https://geth.ethereum.org/)
+    - Sweet Tools (Smart Contracts)
+      - [Remix](https://remix.ethereum.org/)
+      - [Truffle](https://trufflesuite.com/)</br >
+        - [Ganache](https://trufflesuite.com/ganache/)</br >
+      - [Web3.js](https://web3js.readthedocs.io/)
+      - [OpenZeppelin](https://www.openzeppelin.com/)
 * DB
   - [MongoDB](https://www.mongodb.com/)</br >
   - [PostgreeSQL](https://www.postgresql.org/)</br >
-* Ethereum protocol
-  - [Ethereum](https://geth.ethereum.org/)
-    - [Web3.js](https://web3js.readthedocs.io/)
-    - [OpenZeppelin](https://www.openzeppelin.com/)
-* [Git](https://git-scm.com/)
+* DevOps tool
+  - [Git](https://git-scm.com/)
 
 </p>
 
