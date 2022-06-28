@@ -40,8 +40,8 @@ Python | Golang | JavaScript | Solidity
   - [PostgreeSQL](https://www.postgresql.org/)</br >
 * Ethereum protocol
   - [Ethereum](https://geth.ethereum.org/)
-  - [Web3.js](https://web3js.readthedocs.io/)
-  - [OpenZeppelin](https://www.openzeppelin.com/)
+    - [Web3.js](https://web3js.readthedocs.io/)
+    - [OpenZeppelin](https://www.openzeppelin.com/)
 * [Git](https://git-scm.com/)
 
 </p>
