@@ -40,7 +40,7 @@ Python | Golang | JavaScript | Solidity
 * Ethereum protocol
   - [Ethereum](https://geth.ethereum.org/)
   - [Web3.js](https://web3js.readthedocs.io/)
-* [Git](https://www.postgresql.org/)
+* [Git](https://git-scm.com/)
 
 </p>
 
