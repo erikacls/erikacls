@@ -11,9 +11,9 @@ I’m currently learning programming, blockchain and Smart Contracts development
 
 <p>
 
-Python | Golang | JavaScript | Solidity   
-:---------: |:---------: |:---------: |:---------: |
-[.py](https://www.python.org/) |[.go](https://go.dev/) |[.js](https://developer.mozilla.org/en-US/docs/Web/) |[.sol](https://soliditylang.org/) 
+Java | Python | Golang | JavaScript | Solidity   
+:---------: |:---------: |:---------: |:---------: |:---------: |
+[.java](https://docs.oracle.com/javase/8/docs/) |[.py](https://www.python.org/) |[.go](https://go.dev/) |[.js](https://developer.mozilla.org/en-US/docs/Web/) |[.sol](https://soliditylang.org/) 
 
 </p>
 
@@ -25,9 +25,10 @@ Python | Golang | JavaScript | Solidity
 
 ######
 
-* Editor
+* Editor/IDEA
   - [VSCode](https://code.visualstudio.com/)</br >
   - [Sublime Text](https://www.sublimetext.com/)</br >
+  - [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)</br >
 * Runtime
   - [Node.js](https://nodejs.org/en/)</br >
     - [Express](https://expressjs.com/)</br >
@@ -54,25 +55,4 @@ Python | Golang | JavaScript | Solidity
 
 
 <!--
-
-# O título maior
-## O segundo maior título
-###### O título menor
-
-### Hi! 👋
-
-**erikacls/erikacls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 
