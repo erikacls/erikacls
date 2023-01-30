@@ -12,7 +12,7 @@ I’m currently learning programming, blockchain and Smart Contracts development
 <p>
 
 Java | Golang | JavaScript | Solidity   
-:---------: |:---------: |:---------: |:---------: |:---------: |
+:---------: |:---------: |:---------: |:---------: |
 [.java](https://docs.oracle.com/javase/8/docs/) |[.go](https://go.dev/) |[.js](https://developer.mozilla.org/en-US/docs/Web/) |[.sol](https://soliditylang.org/) 
 
 </p>
