@@ -51,8 +51,7 @@ Java | Golang | JavaScript | Solidity
 
 </details>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-
 <!--
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+-->
 
