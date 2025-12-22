@@ -42,6 +42,7 @@ Java | Golang | JavaScript | Solidity
       - [Web3.js](https://web3js.readthedocs.io/)
       - [OpenZeppelin](https://www.openzeppelin.com/)
 * DB
+* - [MySQL](https://www.mysql.com/)</br >
   - [MongoDB](https://www.mongodb.com/)</br >
   - [PostgreeSQL](https://www.postgresql.org/)</br >
 * DevOps tool
