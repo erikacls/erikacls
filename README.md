@@ -14,8 +14,10 @@ Java | Spring Boot | SQL | NoSQL | Git
 
 ---
 
-##### ⚙️ Tools & Environment
-
+<details><summary>⚙️ Tools & Environment</summary>
+  
+<p>
+  
 * Editors/IDEs
   - [VSCode](https://code.visualstudio.com/)</br >
   - [Sublime Text](https://www.sublimetext.com/)</br >
@@ -31,17 +33,24 @@ Java | Spring Boot | SQL | NoSQL | Git
   - [MySQL](https://www.mysql.com/)</br >
   - [MongoDB](https://www.mongodb.com/)</br >
   - [PostgreSQL](https://www.postgresql.org/)</br >
-* * Version Control
+* Version Control
   - [Git](https://git-scm.com/)
+  
+</p>
+</details>
 
-
-##### 🧠 Backend & Systems
-
+<details><summary>🧠 Backend & Systems</summary>
+  
+<p>
+  
 - API development with Java & Spring Boot   
 - Messaging (Kafka, RabbitMQ, SQS)  
 - Cloud fundamentals  
-- Unit testing 
-
+- Unit testing
+  
+</p>
+</details
+  
 <!--
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 -->
