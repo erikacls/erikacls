@@ -9,12 +9,12 @@ IT Analyst | Backend Developer<p>
 
 ---
 
-##### ⚙️ Tech Stack 
+##### Tech Stack 
 Java | Spring Boot | SQL | NoSQL | Git
 
 ---
 
-<details><summary>⚙️ Tools & Environment</summary>
+<details><summary>Tools & Environment</summary>
   
 <p>
   
@@ -39,7 +39,7 @@ Java | Spring Boot | SQL | NoSQL | Git
 </p>
 </details>
 
-<details><summary>🧠 Backend & Systems</summary>
+<details><summary>Backend & Systems</summary>
   
 <p>
   
