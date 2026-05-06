@@ -38,10 +38,16 @@ IT Analyst | Software Engineering Student<p>
   
 <p>
   
-- API development with Java & Spring Boot   
-- Messaging (Kafka, RabbitMQ, SQS)  
-- Cloud fundamentals  
+- ## Learning Focus
+
+- Programming fundamentals and problem solving
+- Web development with HTML, CSS and JavaScript
+- API development with Java & Spring Boot
+- Messaging concepts with Kafka, RabbitMQ and SQS
+- Databases and SQL/NoSQL
+- Cloud fundamentals
 - Unit testing
+- Technical documentation
   
 </p>
 </details
