@@ -34,11 +34,9 @@ IT Analyst | Software Engineering Student<p>
 </p>
 </details>
 
-<details><summary>Backend & Systems</summary>
+<details><summary>Backend Learning Path</summary>
   
 <p>
-  
-- ## Learning Focus
 
 - Programming fundamentals and problem solving
 - Web development with HTML, CSS and JavaScript
