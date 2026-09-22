@@ -4,7 +4,7 @@
 <h1 align="center">❝</h1>
 
 <div align="center">
-IT Analyst | Software Engineering Student<p>
+IT Analyst | Software Engineering<p>
 </div>
 
 ---
